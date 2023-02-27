@@ -162,3 +162,4 @@ cython_debug/
 # Figures
 Figures.pptx
 figures/
+trial.py
